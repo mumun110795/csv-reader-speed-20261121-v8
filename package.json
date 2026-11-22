@@ -1,0 +1,6 @@
+{
+  "name": "csv-reader-speed-20261121-v8",
+  "private": true,
+  "type": "module",
+  "description": "UTF-8 byte-domain WASM SIMD CSV transducer for the make.fun csv-reader-speed bounty"
+}
